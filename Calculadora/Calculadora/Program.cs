@@ -6,6 +6,21 @@ namespace Calculadora
     {
         static void Main(string[] args)
         {
+            string operador = Console.ReadLine();
+
+            if(operador== "+")
+            {
+            }
+            else if (operador == "-")
+            {
+            }
+            else if (operador == "*")
+            {
+            }
+            else if (operador == "/")
+            {
+            }
+
             Console.WriteLine("Hello World!");
         }
     }
